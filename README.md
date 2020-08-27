@@ -1,6 +1,6 @@
 # crudsederhana
 Pembuatan CRUD Sederhana
 
-![Alt text](/relative/path/to/vendor.jpg?raw=true "SC 1")
+![Alt text](https://drive.google.com/file/d/1ZQSrYgvg6XjYz_oyLuXGKYmaXSGcUjos/view?usp=sharing "SC1")
 
-![Alt text](/relative/path/to/form.jpg?raw=true "Optional Title")
+
